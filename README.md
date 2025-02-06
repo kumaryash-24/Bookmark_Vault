@@ -43,7 +43,7 @@
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/bookmarkvault.git
+   git clone https://github.com/kumaryash-24/Bookmark_Vault.git
    cd bookmarkvault
    \`\`\`
 
@@ -66,8 +66,9 @@
 
 ## 🏗️ Project Structure
 
-\`\`\`
-bookmarkvault/
+
+```plaintext
+bookmarkvault
 ├── src/
 │   ├── components/     # React components
 │   ├── lib/           # Firebase and Supabase configurations
@@ -75,7 +76,7 @@ bookmarkvault/
 │   └── App.tsx        # Main application component
 ├── public/            # Static assets
 └── supabase/         # Supabase migrations and configurations
-\`\`\`
+
 
 ## 🎯 Core Features Explained
 

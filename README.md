@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Supabase-2.39.7-3ECF8E?logo=supabase" alt="Supabase" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?logo=tailwind-css" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?logo=tailwind-css" alt="Tailwind CSS" /> 
   </div>
 </div>
 

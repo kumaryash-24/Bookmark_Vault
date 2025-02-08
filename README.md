@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://static-00.iconduck.com/assets.00/bookmark-icon-1836x2048-cbmkgd40.png" alt="BookmarkVault Logo" width="120" />
 </div>
-  <h3>Your Digital Bookmark Sanctuary</h3>
+  <h3>Your Digital Bookmark Sanctuary</h3> 
   
   <p>A modern, secure, and feature-rich bookmark management application built with React, TypeScript, and Supabase.</p>
 

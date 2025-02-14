@@ -7,7 +7,7 @@
   Project Demo:- https://bookmarks-yash.netlify.app/
   
   <p>A modern, secure, and feature-rich bookmark management application built with React, TypeScript, and Supabase.</p>
-
+    
   <div>
     <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript" alt="TypeScript" />

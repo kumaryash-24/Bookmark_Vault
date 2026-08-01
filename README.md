@@ -1,4 +1,4 @@
-# BookmarkVault 🔖
+# BookmarkVault 🔖 
 
 <div align="center">
   <img src="https://static-00.iconduck.com/assets.00/bookmark-icon-1836x2048-cbmkgd40.png" alt="BookmarkVault Logo" width="120" />

@@ -149,3 +149,6 @@ _Last updated: 2026-10-22 - small README tidy-up._
 
 
 Last updated: 2026-10-24 — daily maintenance commit.
+
+
+<!-- updated 2026-11-11 -->

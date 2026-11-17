@@ -5,7 +5,7 @@
 </div>
   <h3>Your Digital Bookmark Sanctuary</h3> 
   Project Demo:- https://bookmarks-yash.netlify.app/
-  Updated on 2026-11-16.
+  Updated on 2026-11-17.
   
   <p>A modern, secure, and feature-rich bookmark management application built with React, TypeScript, and Supabase.</p>
     
